@@ -2,11 +2,11 @@
 
 - 👨‍💻 I'm a software engineering student from México and I love estar con los panas.
 
-- ☕️ I'm currently working with a lot of JavaScript and web development technologies.
+- 🎞🏀 Me mama las peliculas perronas y los deportes mamalones.
 
 Follor me for mas contenido:
 
-🐦 [Twitter](https://twitter.com/gussiny_) | 🧳 [Linkedin](https://www.linkedin.com/in/deficts/) | 📸 [Instagram](https://www.instagram.com/gussiny_/)
+🐦 [Twitter](https://twitter.com/gussiny_) | 🧳 [Linkedin](https://www.linkedin.com/in/gustavo-alejandro-flores-cortes/) | 📸 [Instagram](https://www.instagram.com/gussiny_/)
 <!--
 **Gussiny/Gussiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
